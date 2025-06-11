@@ -17,5 +17,26 @@ Selenium WebDriver • Playwright • Apache httpClient • Rest-Assured
 **Frameworks:**  
 Spring Boot • JUnit • TestNG
 
+**Backend:**  
+Spring Boot • Java • Node.js • Express
+
 **DB Tools:**  
-MS SQL
+PostgreSQL • MSSQL • Oracle SQL Developer• MongoDB
+
+**Other:**  
+REST APIs • Microservices
+
+## 🌱 Currently Learning
+
+- Cloud-native development and serverless architectures
+- Advanced DevOps automation and infrastructure as code
+
+## 📫 Let's Connect
+
+Feel free to reach out for collaboration, open source contributions, or just to connect!
+
+[LinkedIn](https://www.linkedin.com/in/chaudharydeepak/) | [Portfolio](http://chaudharydeepak-profile-aws.s3-website.eu-north-1.amazonaws.com/)
+
+---
+
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
