@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Deepak Chaudhary
 
-<!--
-**dc48007/dc48007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Software Engineer in Test | SDET | Automation Enthusiast
 
-Here are some ideas to get you started:
+With nearly a decade of hands-on experience, I bring a relentless passion for quality, innovation, and automation to every project. My journey spans Health Insurance, Finance, and E-learning domains, where I’ve built, led, and scaled robust test automation solutions that power world-class software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ **Tech Stack & Expertise**
+
+**Languages:**  
+Java • C# • SQL • JavaScript
+
+**Automation Tools:**  
+Selenium WebDriver • Playwright • Apache httpClient • Rest-Assured
+
+**Frameworks:**  
+Spring Boot • JUnit • TestNG
+
+**DB Tools:**  
+MS SQL
